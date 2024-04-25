@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSE3200-Final_MET_Exhibition_Collage</string>
+    <string name="image_button">image_button</string>
+    <string name="load_all_images">load_all_images</string>
+</resources>
